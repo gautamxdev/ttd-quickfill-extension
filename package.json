@@ -1,0 +1,1 @@
+{"name":"ttd-quickfill-extension","version":"0.2.0","private":true,"type":"module","scripts":{"test":"node --test","check":"node --check flows.js && node --check plan.js && node --check content.js && node --check service-worker.js && node --check panel.js"}}
