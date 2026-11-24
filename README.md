@@ -2,6 +2,12 @@
 
 A Chrome extension for user-triggered entry on the official Sri PAT, Special Entry Darshan (SED), and Angapradakshinam pilgrim forms. Version 0.2.0. Select the same number of saved pilgrims as the ticket count, in the same row order, then press **Fill selected pilgrims**. It fills Name, Age, Gender, Photo ID Proof, and Photo ID Number, checks each field, and stops on conflicts. You review the form and press Continue yourself.
 
+## Download
+
+**[Download TTD QuickFill extension v0.2.0 (ZIP)](https://github.com/gautamxdev/ttd-quickfill-extension/releases/download/v0.2.0/ttd-quickfill-extension-v0.2.0.zip)**
+
+Extract the ZIP, then load the extracted folder in Chrome using the steps below.
+
 ## Use
 
 1. In Chrome, open `chrome://extensions`, enable Developer mode, choose **Load unpacked**, and select this folder.
